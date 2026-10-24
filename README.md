@@ -29,8 +29,6 @@
 
 ## 🔥 Featured Projects
 
-### 🏥 Medilux – Doctor Appointment Booking System
-
 ### 🏥 Medilux – Doctor Appointment Booking System (MERN Stack)
 - Developed a full-stack healthcare platform featuring dedicated Patient, Doctor, and Admin dashboards with role-based workflows.
 
@@ -40,12 +38,24 @@
 
 - Achieved 88 Lighthouse Accessibility and 83 SEO scores, with zero Cumulative Layout Shift (CLS), improving usability and layout stability.
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, REST APIs
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT, REST APIs, MongoDB
 
 🔗 [GitHub Repository](https://github.com/Biharinavnit/Medilux-Doctor-Appointment-Booking-System) | [Live Demo](https://medilux-doctor-appointment-booking.vercel.app/)
 
-**Tech Stack:** React.js, Node.js, Express.js, REST APIs, MongoDB
+**JobTrack — Job Application Tracker Portal**
 
+-Built a full-stack MERN job application tracker with JWT authentication and CRUD operations, letting users manage applications across the entire recruitment lifecycle in one place.
+
+-Developed an interactive dashboard with search, filtering, Kanban-style status tracking, and Recharts visualizations, helping users monitor progress and spot hiring trends at a glance.
+
+-Engineered a Recently Deleted (Trash) section with restore, inspired by Google Photos, preventing permanent loss of accidentally deleted applications. Also added a notes module with PDF and DOCX import, so users can keep documents alongside each application.
+
+-Improved usability and onboarding with forgot-password reset, a password show/hide toggle, and a one-click demo account. Designed a fully responsive UI for mobile, tablet, and desktop, and deployed the frontend on Vercel and the backend on Render with environment-based API configuration.
+
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Axios, Recharts, Vercel, Render
+
+🔗 [GitHub Repository]- (https://github.com/Biharinavnit/job-application-tracker-portal)) | [Live Demo]- (https://job-application-tracker-portal-three.vercel.app)
 ---
 
 ## 🧠 Problem Solving & Continuous Learning
