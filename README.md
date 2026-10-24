@@ -55,8 +55,8 @@
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Axios, Recharts, Vercel, Render
 
-🔗 [GitHub Repository]- (https://github.com/Biharinavnit/job-application-tracker-portal)) | [Live Demo]- (https://job-application-tracker-portal-three.vercel.app)
----
+🔗 [GitHub Repository]-(https://github.com/Biharinavnit/job-application-tracker-portal) | [Live Demo]-(https://job-application-tracker-portal-three.vercel.app)
+
 
 ## 🧠 Problem Solving & Continuous Learning
 
