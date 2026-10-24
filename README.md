@@ -11,7 +11,7 @@
 - 🚀 Interested in building practical, scalable, and user-friendly applications
 - 🧠 Practicing Data Structures and Algorithms to strengthen my problem-solving skills
 - 🌱 Currently focusing on Java, Backend Development, Database Management, and Software Engineering fundamentals
-- 🏥 Developed **Medilux – Doctor Appointment Booking System**
+- 🏥 Developed **Medilux – Doctor Appointment Booking System , JobTrack — Job Application Tracker Portal**
 - 🎯 Actively seeking Software Engineer / SDE Fresher opportunities
 
 ---
@@ -42,7 +42,7 @@
 
 🔗 [GitHub Repository](https://github.com/Biharinavnit/Medilux-Doctor-Appointment-Booking-System) | [Live Demo](https://medilux-doctor-appointment-booking.vercel.app/)
 
-**JobTrack — Job Application Tracker Portal**
+**🎯JobTrack — Job Application Tracker Portal**
 
 -Built a full-stack MERN job application tracker with JWT authentication and CRUD operations, letting users manage applications across the entire recruitment lifecycle in one place.
 
